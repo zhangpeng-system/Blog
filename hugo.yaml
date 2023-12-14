@@ -1,0 +1,161 @@
+baseURL: "https://zhangpeng-system.github.io/Blog/"
+title: ZHANG PENG's Blog
+paginate: 15
+theme: PaperMod
+# インラインでコンテンツを拡張
+enableInlineShortcodes: true
+# Emojiの使用可能
+enableEmoji: true
+# ウェブクローラー
+enableRobotsTXT: true
+# 漢字などの自動チェック
+hasCJKLanguage: true
+# 下書きをビルドしない
+buildDrafts: false
+# 未来の投稿をビルドしない
+buildFuture: false
+# 期限が切れた投稿をビルドしない
+buildExpired: false
+# Google AnalyticsのトラッキングID
+googleAnalytics: G-ABC123DEF456
+# URLの表示フォーマット
+permalinks:
+  post: "/:title/"
+minify:
+  # XMLを無効にする
+  disableXML: true
+  # 出力を最小化する
+  minifyOutput: true
+# サイトのカスタマイズ
+params:
+  env: production
+  title: ExampleSite
+  description: "ブログ環境説明文"
+  keywords: [Blog, Portfolio, PaperMod, Flutter, ブログ, 初心者, 技術, IT ]
+  author: ZHANG PENG
+  # staticフォルダに配置
+  images: ["icon/my-icon.jpg"]
+  DateFormat: "2006-01-02"
+  defaultTheme: auto
+  # テーマのトグルを無効にする
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  Showtoc: true
+  Tocopen: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  assets:
+    favicon: "icon/my-icon.jpg"
+    favicon16x16: "icon/my-icon.jpg"
+    favicon32x32: "icon/my-icon.jpg"
+    apple_touch_icon: "icon/my-icon.jpg"
+    safari_pinned_tab: "icon/my-icon.jpg"
+  label:
+    text: "ZHANG PENG's Blog"
+    icon: icon/my-icon.jpg
+    iconHeight: 35
+  # profile-mode
+  profileMode:
+    enabled: true
+    title: Keep it simple, stupid.
+    # subtitle:
+    #   Keep it simple, stupid.
+    imageUrl: "icon/my-icon.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: こんにちは、ZHANG PENGと申します。
+    buttons:
+      - name: Blog
+        url: posts
+      - name: Profile
+        url: profile
+  socialIcons:
+    - name: github
+      url: "https://github.com/zhangpeng-system"
+    - name: twitter
+      url: "https://twitter.com/PENGZHA83634254"
+    - name: email
+      url: "mailto:zhangpeng.system@gmail.com"
+    - name: RSS
+      url: "index.xml"
+    # - name: QQ  
+    #   url: "img/qq.png"
+    # - name: WeChat
+    #   url: "img/wechat.png"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com"
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    # - identifier: categories
+    #   name: Categories
+    #   url: categories
+    #   weight: 2
+    - identifier: tags
+      name: Tags
+      url: tags
+      weight: 2
+    - identifier: search
+      name: Search
+      url: "search"
+      weight: 3
+    - identifier: archive
+      name: Archive
+      url: archives
+      weight: 4
+pygmentsUseClasses: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+markup:
+  goldmark:
+    renderer:
+      # HUGO 默认转义 Markdown 文件中的 HTML 代码，如需开启的话
+      unsafe: true
+      hardWraps: true
+  # コードブロックの言語を自動的に推測
+  guessSyntax: true
+  highlight:
+    # anchorLineNos: true
+    # コードブロック使用可能
+    codeFences: true
+    guessSyntax: false
+    # ソースコード前の数字番号
+    lineNos: true
+    # ソースコード前の数字番号が何番から始まる
+    lineNoStart: 1
+    noClasses: false
+    style: monokai
+    # style: darcula
