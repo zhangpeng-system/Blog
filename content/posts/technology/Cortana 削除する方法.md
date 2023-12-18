@@ -44,7 +44,7 @@ description: "「追いかけ続ける勇気さえあれば、夢は必ず叶い
 weight:
 
 cover:
-    image: "default-cover/default-cover.png"
+    image: "posts/technology/Windows 10 の Cortana をアンインストールする（削除）方法/Windows 10 の Cortana をアンインストールする（削除）方法.001.png.001.jpeg"
     alt: ""
     caption: ""
     relative: false # when using page bundles set this to true
