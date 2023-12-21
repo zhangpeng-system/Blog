@@ -51,3 +51,6 @@ cover:
     hidden: false # only hide on current single page
 # ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝🔼編集必要🔼＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 ---
+image: "posts/life/おすすめな Macbook Air 設定５選/おすすめな Macbook Air 設定.001.png"
+
+![](posts/life/おすすめな Macbook Air 設定５選/おすすめな Macbook Air 設定.001.png)
