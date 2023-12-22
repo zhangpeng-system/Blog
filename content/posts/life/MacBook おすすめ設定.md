@@ -76,7 +76,7 @@ Macbook の詳しい使い方や設定は先輩達の詳しいガイドを読む
 システム設定　→　アクセシビリティ　　→　操作　→　ポインタコントロール　→　トラックパッドオプション　→　３本指のドラック
 ```
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3076318/14c9cc74-5780-46aa-7daf-744ceddadca7.png)
+![３本指のドラック](https://peridot-wood-05b.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9eac8f3d-2b0a-48f1-890e-bf2567cf11ae%2F3fe30d7d-72fe-4224-a274-5977868e1e1d%2F%25EF%25BC%2593%25E6%259C%25AC%25E6%258C%2587%25E3%2581%25AE%25E3%2583%2588%25E3%2582%2599%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF.png?table=block&id=e031cfaf-a322-4c19-b14f-14d9180d6949&spaceId=9eac8f3d-2b0a-48f1-890e-bf2567cf11ae&width=2000&userId=&cache=v2)
 
 ### バッテリー割合を表示
 
@@ -95,7 +95,7 @@ Macbook の詳しい使い方や設定は先輩達の詳しいガイドを読む
 スクリーンセーバの開始後またはディスプレイがオフになったあとにパスワードを要求　→　すぐに
 ```
 
-![閉じたらすぐロック.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3076318/50abeff2-accd-26f7-ae90-ceacc078d619.png)
+![閉じたらすぐロック.png](https://peridot-wood-05b.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9eac8f3d-2b0a-48f1-890e-bf2567cf11ae%2F1591f801-92fa-4bb3-a5fb-292d28ed4dc0%2F%25E9%2596%2589%25E3%2581%2597%25E3%2582%2599%25E3%2581%259F%25E3%2582%2589%25E3%2581%2599%25E3%2581%258F%25E3%2582%2599%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF.png?table=block&id=a1d6cfb6-e44b-4b9e-b5e2-acfdda034acf&spaceId=9eac8f3d-2b0a-48f1-890e-bf2567cf11ae&width=2000&userId=&cache=v2)
 
 ### Apple Watchを使ってアプリケーションとMacのロックを解除します。
 
@@ -104,7 +104,7 @@ Macbook の詳しい使い方や設定は先輩達の詳しいガイドを読む
 システム設定　→　Touch ID とパスワード　　→　Apple Watch
 ```
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3076318/7241d9d5-b568-5585-337f-1f49ea2d7c25.png)
+![Apple Watch.png](https://peridot-wood-05b.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9eac8f3d-2b0a-48f1-890e-bf2567cf11ae%2F48bbf8cb-1129-4f13-aca8-87048921b449%2FApple_Watch.png?table=block&id=c6841e86-867b-4444-b975-e976e5f07ad6&spaceId=9eac8f3d-2b0a-48f1-890e-bf2567cf11ae&width=2000&userId=&cache=v2)
 
 ### Macbook のトラックパッドをWindowsのようにタップでクリック
 
@@ -113,7 +113,7 @@ Macbook の詳しい使い方や設定は先輩達の詳しいガイドを読む
 システム設定　→　トラックパッド　　→　タップでクリック
 ```
 
-![タップでクリック.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3076318/f54950c8-56cf-c4b9-b080-711815321fe5.png)
+![タップでクリック.png](https://peridot-wood-05b.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9eac8f3d-2b0a-48f1-890e-bf2567cf11ae%2Ff3aa7d3a-784d-4e88-a5b7-760f26d04ea5%2F%25E3%2582%25BF%25E3%2583%2583%25E3%2583%2595%25E3%2582%259A%25E3%2581%25A6%25E3%2582%2599%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF.png?table=block&id=6e32460d-1c0e-4677-b0e6-ef2134eed170&spaceId=9eac8f3d-2b0a-48f1-890e-bf2567cf11ae&width=2000&userId=&cache=v2)
 
 ## 最後
 
