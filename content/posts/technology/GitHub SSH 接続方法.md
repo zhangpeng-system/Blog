@@ -53,7 +53,17 @@ cover:
 ---
 # SSH を使用した GitHub への接続
 
+### 2023年12月、追記
 
+本記事で紹介したRSAキー（RSA暗号化鍵）方式で GitHub への接続方法は現在 GitHub より推奨しないようになっております。
+
+その代わりに、DSAキー（DSA署名鍵）をお勧めします。
+
+DSAキーは、デジタルメッセージの真正性と整合性を保証するために使用されるデジタル署名アルゴリズムです。
+RSAキーと比較して、同等のセキュリティレベルを持つDSAキーは一般的に小さいです。そのため、署名や検証のプロセスがRSAよりも速くなることがあります。
+
+また、DSAキーが使用不可の場合もあります。
+RSAキーとDSAキーの選択はニーズに合わせて選びましょう！
 
 ## SSH有無の確認
 
@@ -125,13 +135,11 @@ cat id_rsa.pub
 
 ## 追加完了
 
-コピペができたら、緑のボタンをクリックして、公開鍵、いわばSSH Keyの設定が終わります。
-
-![](https://peridot-wood-05b.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9eac8f3d-2b0a-48f1-890e-bf2567cf11ae%2F18075993-79e7-45c4-8bf1-f51474d2ed9f%2Fimage-20230311021051667.png?table=block&id=f8bbb1a3-cc4f-4945-965f-0c83aadebb8a&spaceId=9eac8f3d-2b0a-48f1-890e-bf2567cf11ae&width=2000&userId=&cache=v2)
+コピペができたら、`Add SSH key`ボタンをクリックして、公開鍵、いわばSSH Keyの設定が終わります。
 
 追加済みのSSH Keyは下記のように表示されます。
 
-![image-20230311021051667](./image-20230311021051667.png)
+![](https://peridot-wood-05b.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9eac8f3d-2b0a-48f1-890e-bf2567cf11ae%2F18075993-79e7-45c4-8bf1-f51474d2ed9f%2Fimage-20230311021051667.png?table=block&id=f8bbb1a3-cc4f-4945-965f-0c83aadebb8a&spaceId=9eac8f3d-2b0a-48f1-890e-bf2567cf11ae&width=2000&userId=&cache=v2)
 
 ## 接続検証
 
