@@ -37,7 +37,7 @@ ShowWordCount: true
 
 ShowRssButtonInSectionTermList: true
 # ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝🔽編集必要🔽＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-tags: ["分類1", "分類2", "分類2"]
+tags: ["Windows", "Shell", "初期設定"]
 
 description: "「追いかけ続ける勇気さえあれば、夢は必ず叶います」"
 
@@ -51,6 +51,7 @@ cover:
     hidden: false # only hide on current single page
 # ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝🔼編集必要🔼＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 ---
+
 #　MacBook 自然方向 
 
 MacBook の自然スクロール方向に慣れたら、何年間も使いし続けて来た Windows のスクロースに違和感を感じて、もし Windows のマウス方向が MacBook と同じようにできたらいいなぁと思って調べました。
