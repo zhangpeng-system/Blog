@@ -37,7 +37,7 @@ ShowWordCount: true
 
 ShowRssButtonInSectionTermList: true
 # ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝🔽編集必要🔽＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-tags: ["分類1", "分類2", "分類2"]
+tags: ["MacBook", "Homebrew", "初期設定"]
 
 description: "「追いかけ続ける勇気さえあれば、夢は必ず叶います」"
 
