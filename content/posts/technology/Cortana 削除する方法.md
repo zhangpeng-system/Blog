@@ -59,7 +59,7 @@ CortanaをPowerShellを使ってアンインストールするは高度な操作
 
 スタートメニューで「PowerShell」と入力し、右クリックして「管理者として実行」を選択します。
 
-![](https://storage.googleapis.com/zenn-user-upload/9c59532fb185-20230114.png)
+![](https://peridot-wood-05b.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9eac8f3d-2b0a-48f1-890e-bf2567cf11ae%2F5662d3d3-a4a3-454d-b157-7bcb95fd6930%2FUntitled.png?table=block&id=97393e21-f516-4724-b028-8845ab13a281&spaceId=9eac8f3d-2b0a-48f1-890e-bf2567cf11ae&width=1380&userId=&cache=v2)
 
 ## 下記のコマンドをコピペして実行します。
 
@@ -71,7 +71,7 @@ Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
 
 ## 実行完了↓
 
-![](https://storage.googleapis.com/zenn-user-upload/8610ee2d8db2-20230114.png)
+![](https://peridot-wood-05b.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9eac8f3d-2b0a-48f1-890e-bf2567cf11ae%2F7b986988-2e22-4ed4-8cb7-bffc91ac0776%2FUntitled.png?table=block&id=27d930a1-7338-45df-b408-778a331555e4&spaceId=9eac8f3d-2b0a-48f1-890e-bf2567cf11ae&width=2000&userId=&cache=v2)
 
 ctrl + C で Cortana を起動して見ると、何も出てきません、これで削除はできました。
 
