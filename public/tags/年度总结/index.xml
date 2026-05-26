@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>年度总结 on ZHANG PENG&#39;s Blog</title>
-    <link>https://zhangpeng-system.github.io/Blog/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
+    <link>http://localhost:52808/Blog/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
     <description>Recent content in 年度总结 on ZHANG PENG&#39;s Blog</description>
     <image>
       <title>ZHANG PENG&#39;s Blog</title>
-      <url>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</url>
-      <link>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</link>
+      <url>http://localhost:52808/Blog/icon/my-icon.jpg</url>
+      <link>http://localhost:52808/Blog/icon/my-icon.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Jan 2024 21:02:17 +0900</lastBuildDate>
-    <atom:link href="https://zhangpeng-system.github.io/Blog/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52808/Blog/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 年度总结</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/life/2023-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
+      <link>http://localhost:52808/Blog/posts/life/2023-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
       <pubDate>Sat, 06 Jan 2024 21:02:17 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/life/2023-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid>
+      <guid>http://localhost:52808/Blog/posts/life/2023-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
     <item>
       <title>2022 年度总结</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/life/2022-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
+      <link>http://localhost:52808/Blog/posts/life/2022-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
       <pubDate>Sat, 31 Dec 2022 20:22:45 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/life/2022-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid>
+      <guid>http://localhost:52808/Blog/posts/life/2022-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
   </channel>

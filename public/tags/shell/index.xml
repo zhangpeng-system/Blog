@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shell on ZHANG PENG&#39;s Blog</title>
-    <link>https://zhangpeng-system.github.io/Blog/tags/shell/</link>
+    <link>http://localhost:52808/Blog/tags/shell/</link>
     <description>Recent content in Shell on ZHANG PENG&#39;s Blog</description>
     <image>
       <title>ZHANG PENG&#39;s Blog</title>
-      <url>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</url>
-      <link>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</link>
+      <url>http://localhost:52808/Blog/icon/my-icon.jpg</url>
+      <link>http://localhost:52808/Blog/icon/my-icon.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Feb 2023 12:18:51 +0900</lastBuildDate>
-    <atom:link href="https://zhangpeng-system.github.io/Blog/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52808/Blog/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows スクロール方向変更</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/technology/windows-%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%E6%96%B9%E5%90%91%E5%A4%89%E6%9B%B4/</link>
+      <link>http://localhost:52808/Blog/posts/technology/windows-%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%E6%96%B9%E5%90%91%E5%A4%89%E6%9B%B4/</link>
       <pubDate>Sat, 11 Feb 2023 12:18:51 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/technology/windows-%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%E6%96%B9%E5%90%91%E5%A4%89%E6%9B%B4/</guid>
+      <guid>http://localhost:52808/Blog/posts/technology/windows-%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%E6%96%B9%E5%90%91%E5%A4%89%E6%9B%B4/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
   </channel>

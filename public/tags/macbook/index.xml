@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MacBook on ZHANG PENG&#39;s Blog</title>
-    <link>https://zhangpeng-system.github.io/Blog/tags/macbook/</link>
+    <link>http://localhost:52808/Blog/tags/macbook/</link>
     <description>Recent content in MacBook on ZHANG PENG&#39;s Blog</description>
     <image>
       <title>ZHANG PENG&#39;s Blog</title>
-      <url>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</url>
-      <link>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</link>
+      <url>http://localhost:52808/Blog/icon/my-icon.jpg</url>
+      <link>http://localhost:52808/Blog/icon/my-icon.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 26 Jan 2023 00:24:54 +0900</lastBuildDate>
-    <atom:link href="https://zhangpeng-system.github.io/Blog/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52808/Blog/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homebrew 使用方法</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/technology/homebrew-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
+      <link>http://localhost:52808/Blog/posts/technology/homebrew-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
       <pubDate>Thu, 26 Jan 2023 00:24:54 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/technology/homebrew-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid>
+      <guid>http://localhost:52808/Blog/posts/technology/homebrew-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
     <item>
       <title>Terminal ユーザー名と PC 名非表示</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/technology/terminal-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%A8-pc-%E5%90%8D%E9%9D%9E%E8%A1%A8%E7%A4%BA/</link>
+      <link>http://localhost:52808/Blog/posts/technology/terminal-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%A8-pc-%E5%90%8D%E9%9D%9E%E8%A1%A8%E7%A4%BA/</link>
       <pubDate>Sat, 14 Jan 2023 13:53:18 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/technology/terminal-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%A8-pc-%E5%90%8D%E9%9D%9E%E8%A1%A8%E7%A4%BA/</guid>
+      <guid>http://localhost:52808/Blog/posts/technology/terminal-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%A8-pc-%E5%90%8D%E9%9D%9E%E8%A1%A8%E7%A4%BA/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
     <item>
       <title>MacBook おすすめ設定</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/life/macbook-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E8%A8%AD%E5%AE%9A/</link>
+      <link>http://localhost:52808/Blog/posts/life/macbook-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E8%A8%AD%E5%AE%9A/</link>
       <pubDate>Sat, 14 Jan 2023 00:15:23 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/life/macbook-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E8%A8%AD%E5%AE%9A/</guid>
+      <guid>http://localhost:52808/Blog/posts/life/macbook-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E8%A8%AD%E5%AE%9A/</guid>
       <description>「Power. It&amp;#39;s in the Air.」</description>
     </item>
   </channel>

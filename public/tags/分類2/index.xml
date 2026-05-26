@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>分類2 on ZHANG PENG&#39;s Blog</title>
-    <link>https://zhangpeng-system.github.io/Blog/tags/%E5%88%86%E9%A1%9E2/</link>
+    <link>http://localhost:52808/Blog/tags/%E5%88%86%E9%A1%9E2/</link>
     <description>Recent content in 分類2 on ZHANG PENG&#39;s Blog</description>
     <image>
       <title>ZHANG PENG&#39;s Blog</title>
-      <url>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</url>
-      <link>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</link>
+      <url>http://localhost:52808/Blog/icon/my-icon.jpg</url>
+      <link>http://localhost:52808/Blog/icon/my-icon.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Jun 2024 13:59:00 +0900</lastBuildDate>
-    <atom:link href="https://zhangpeng-system.github.io/Blog/tags/%E5%88%86%E9%A1%9E2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52808/Blog/tags/%E5%88%86%E9%A1%9E2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo 使用方法</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/technology/hugo-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
+      <link>http://localhost:52808/Blog/posts/technology/hugo-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
       <pubDate>Sun, 02 Jun 2024 13:59:00 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/technology/hugo-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid>
+      <guid>http://localhost:52808/Blog/posts/technology/hugo-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
     <item>
       <title>五十音解説</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/technology/%E4%BA%94%E5%8D%81%E9%9F%B3%E8%A7%A3%E8%AA%AC/</link>
+      <link>http://localhost:52808/Blog/posts/technology/%E4%BA%94%E5%8D%81%E9%9F%B3%E8%A7%A3%E8%AA%AC/</link>
       <pubDate>Sun, 02 Jun 2024 13:57:37 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/technology/%E4%BA%94%E5%8D%81%E9%9F%B3%E8%A7%A3%E8%AA%AC/</guid>
+      <guid>http://localhost:52808/Blog/posts/technology/%E4%BA%94%E5%8D%81%E9%9F%B3%E8%A7%A3%E8%AA%AC/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
     <item>
       <title>Android Studio 環境配置</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/technology/android-studio-%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+      <link>http://localhost:52808/Blog/posts/technology/android-studio-%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Sun, 02 Jun 2024 13:57:11 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/technology/android-studio-%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/</guid>
+      <guid>http://localhost:52808/Blog/posts/technology/android-studio-%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
   </channel>

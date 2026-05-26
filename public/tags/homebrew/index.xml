@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homebrew on ZHANG PENG&#39;s Blog</title>
-    <link>https://zhangpeng-system.github.io/Blog/tags/homebrew/</link>
+    <link>http://localhost:52808/Blog/tags/homebrew/</link>
     <description>Recent content in Homebrew on ZHANG PENG&#39;s Blog</description>
     <image>
       <title>ZHANG PENG&#39;s Blog</title>
-      <url>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</url>
-      <link>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</link>
+      <url>http://localhost:52808/Blog/icon/my-icon.jpg</url>
+      <link>http://localhost:52808/Blog/icon/my-icon.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 26 Jan 2023 00:24:54 +0900</lastBuildDate>
-    <atom:link href="https://zhangpeng-system.github.io/Blog/tags/homebrew/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52808/Blog/tags/homebrew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homebrew 使用方法</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/technology/homebrew-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
+      <link>http://localhost:52808/Blog/posts/technology/homebrew-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
       <pubDate>Thu, 26 Jan 2023 00:24:54 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/technology/homebrew-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid>
+      <guid>http://localhost:52808/Blog/posts/technology/homebrew-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
   </channel>

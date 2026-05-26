@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Terminal on ZHANG PENG&#39;s Blog</title>
-    <link>https://zhangpeng-system.github.io/Blog/tags/terminal/</link>
+    <link>http://localhost:52808/Blog/tags/terminal/</link>
     <description>Recent content in Terminal on ZHANG PENG&#39;s Blog</description>
     <image>
       <title>ZHANG PENG&#39;s Blog</title>
-      <url>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</url>
-      <link>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</link>
+      <url>http://localhost:52808/Blog/icon/my-icon.jpg</url>
+      <link>http://localhost:52808/Blog/icon/my-icon.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Jan 2023 13:53:18 +0900</lastBuildDate>
-    <atom:link href="https://zhangpeng-system.github.io/Blog/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52808/Blog/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminal ユーザー名と PC 名非表示</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/technology/terminal-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%A8-pc-%E5%90%8D%E9%9D%9E%E8%A1%A8%E7%A4%BA/</link>
+      <link>http://localhost:52808/Blog/posts/technology/terminal-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%A8-pc-%E5%90%8D%E9%9D%9E%E8%A1%A8%E7%A4%BA/</link>
       <pubDate>Sat, 14 Jan 2023 13:53:18 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/technology/terminal-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%A8-pc-%E5%90%8D%E9%9D%9E%E8%A1%A8%E7%A4%BA/</guid>
+      <guid>http://localhost:52808/Blog/posts/technology/terminal-%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D%E3%81%A8-pc-%E5%90%8D%E9%9D%9E%E8%A1%A8%E7%A4%BA/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
   </channel>

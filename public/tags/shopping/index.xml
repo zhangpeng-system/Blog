@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shopping on ZHANG PENG&#39;s Blog</title>
-    <link>https://zhangpeng-system.github.io/Blog/tags/shopping/</link>
+    <link>http://localhost:52808/Blog/tags/shopping/</link>
     <description>Recent content in Shopping on ZHANG PENG&#39;s Blog</description>
     <image>
       <title>ZHANG PENG&#39;s Blog</title>
-      <url>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</url>
-      <link>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</link>
+      <url>http://localhost:52808/Blog/icon/my-icon.jpg</url>
+      <link>http://localhost:52808/Blog/icon/my-icon.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 Nov 2023 13:58:25 +0900</lastBuildDate>
-    <atom:link href="https://zhangpeng-system.github.io/Blog/tags/shopping/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52808/Blog/tags/shopping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>U2723QX 使用体验</title>
-      <link>https://zhangpeng-system.github.io/Blog/posts/life/u2723qx-%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</link>
+      <link>http://localhost:52808/Blog/posts/life/u2723qx-%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</link>
       <pubDate>Mon, 20 Nov 2023 13:58:25 +0900</pubDate>
-      <guid>https://zhangpeng-system.github.io/Blog/posts/life/u2723qx-%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</guid>
+      <guid>http://localhost:52808/Blog/posts/life/u2723qx-%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/</guid>
       <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
     </item>
   </channel>
