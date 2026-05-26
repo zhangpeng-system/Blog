@@ -26,6 +26,9 @@ minify:
   disableXML: true
   # 出力を最小化する
   minifyOutput: true
+# 警告を無視する
+ignorelogs:
+  - 'warning-partial-superfluous-prefix'
 # サイトのカスタマイズ
 params:
   env: production

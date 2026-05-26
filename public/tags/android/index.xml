@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on ZHANG PENG&#39;s Blog</title>
+    <link>https://zhangpeng-system.github.io/Blog/tags/android/</link>
+    <description>Recent content in Android on ZHANG PENG&#39;s Blog</description>
+    <image>
+      <title>ZHANG PENG&#39;s Blog</title>
+      <url>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</url>
+      <link>https://zhangpeng-system.github.io/Blog/icon/my-icon.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Feb 2023 17:01:07 +0900</lastBuildDate>
+    <atom:link href="https://zhangpeng-system.github.io/Blog/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter 環境配置</title>
+      <link>https://zhangpeng-system.github.io/Blog/posts/technology/flutter-%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Wed, 01 Feb 2023 17:01:07 +0900</pubDate>
+      <guid>https://zhangpeng-system.github.io/Blog/posts/technology/flutter-%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/</guid>
+      <description>「追いかけ続ける勇気さえあれば、夢は必ず叶います」</description>
+    </item>
+  </channel>
+</rss>
