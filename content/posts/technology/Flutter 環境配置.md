@@ -44,7 +44,7 @@ description: "「追いかけ続ける勇気さえあれば、夢は必ず叶い
 weight:
 
 cover:
-    image: "posts/technology/Fluuter 環境配置/cover/cover.001.png"
+    image: "posts/technology/Flutter 環境配置/cover/cover.001.png"
     alt: ""
     caption: ""
     relative: false # when using page bundles set this to true

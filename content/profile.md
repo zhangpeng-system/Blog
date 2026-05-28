@@ -27,7 +27,7 @@ cover:
 |           |                    |
 | --------- | ------------------ |
 | 英文名:   | ZHANG PENG              |
-| 职业:     | System sngineer   |
+| 职业:     | System Engineer   |
 
 <br> 
 
