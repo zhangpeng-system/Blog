@@ -26,16 +26,6 @@ Software Engineer based in Osaka, Japan.
 
 Building enterprise systems, exploring AI, documenting ideas, and continuously learning.
 
-|            |                      |
-|-----------:| --------------------:|
-| Name       |   ZHANG PENG         |
-| Nickname   |   JOJO               |
-| Location   |   Osaka, Japan       |
-| Occupation |   Software Engineer  |
-| Languages  |   Chinese / Japanese |
-
----
-
 # About Me
 
 こんにちは、JOJOです。
@@ -54,9 +44,9 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 「アイデアを形にするための手段」
 だと考えています。
 
-# Career Journey
+## Career Journey
 
-## 2020 - Oriental Utility Resource株式会社
+### 2020 - Oriental Utility Resource株式会社
 
 日本でのエンジニアキャリアはここから始まりました。
 
@@ -71,9 +61,7 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 など、エンジニアとしての基礎を学んだ期間でした。
 
----
-
-## 2022 - 株式会社 メイテックフィルダーズ
+### 2022 - 株式会社 メイテックフィルダーズ
 
 私のキャリアの中で最も技術的な挑戦が多かった時期です。
 
@@ -101,9 +89,7 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 技術を学ぶことだけでなく、人に伝えることの難しさと楽しさを知った時期でもあります。
 
----
-
-## 2023 - Present | 株式会社 オレンジアーチ
+### 2023 - Present | 株式会社 オレンジアーチ
 
 現在は業務システム開発を中心に活動しています。
 
@@ -132,11 +118,11 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 「データが流れ、業務を支える仕組み」
 として理解することを大切にしています。
 
-# Beyond Engineering
+## Beyond Engineering
 
 私の興味はエンジニアリングだけにとどまりません。
 
-## VTuber Community
+### VTuber Community
 
 2020年から約2年間、日本人VTuberの中国進出支援プロジェクトにボランティアとして参加しました。
 
@@ -157,7 +143,7 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 を学ぶ機会になりました。
 
-## Business & Organization
+### Business & Organization
 
 私は「システムを作ること」と同じくらい、
 「事業を作ること」
@@ -185,27 +171,27 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 技術だけではビジネスは成立せず、
 ビジネスだけでも価値は生まれないことを学びました。
 
-# What I'm Learning
+## What I'm Learning
 
 現在のテーマは次の3つです。
 
-## AI
+### AI
 
 生成AIを活用した開発効率化。
 
 このブログの運営もその実験の一部です。
 
-## Project Management
+### Project Management
 
 PMP取得に向けて学習中。
 
 技術だけでなく、プロジェクト全体を推進する力を身につけたいと考えています。
 
-## Cloud
+### Cloud
 
 クラウド技術やモダンアーキテクチャについて継続的に学習しています。
 
-# Personal Interests
+## Personal Interests
 
 仕事以外では、
 
@@ -224,12 +210,10 @@ PMP取得に向けて学習中。
 技術・デザイン・ビジネスを横断しながら、
 自分自身のプロダクトやブランドを育てていきたいと考えています。
 
-# Why This Blog Exists
+## Why This Blog Exists
 
 このブログは私のデジタルガーデンです。
-
 技術メモ、学習記録、キャリアの振り返り、生活の気付き。
+
 成功も失敗も含めて、
 未来の自分が振り返られる場所として記録を残しています。
-
-もしどこかの記事が誰かの役に立ったなら、それはとても嬉しいことです。
