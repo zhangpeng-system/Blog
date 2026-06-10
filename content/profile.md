@@ -44,6 +44,8 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 「アイデアを形にするための手段」
 だと考えています。
 
+
+
 ## Career Journey
 
 ### 2020 - Oriental Utility Resource株式会社
