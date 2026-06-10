@@ -26,6 +26,9 @@ Software Engineer based in Osaka, Japan.
 
 Building enterprise systems, exploring AI, documenting ideas, and continuously learning.
 
+<br>
+<br>
+
 # About Me
 
 こんにちは、JOJOです。
@@ -44,9 +47,12 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 「アイデアを形にするための手段」
 だと考えています。
 
-
+<br>
+<br>
 
 ## Career Journey
+
+<br>
 
 ### 2020 - Oriental Utility Resource株式会社
 
@@ -62,6 +68,8 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 - ドキュメント管理
 
 など、エンジニアとしての基礎を学んだ期間でした。
+
+<br>
 
 ### 2022 - 株式会社 メイテックフィルダーズ
 
@@ -90,6 +98,8 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 の社内研修講師も担当しました。
 
 技術を学ぶことだけでなく、人に伝えることの難しさと楽しさを知った時期でもあります。
+
+<br>
 
 ### 2023 - Present | 株式会社 オレンジアーチ
 
@@ -120,9 +130,14 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 「データが流れ、業務を支える仕組み」
 として理解することを大切にしています。
 
+<br>
+<br>
+
 ## Beyond Engineering
 
 私の興味はエンジニアリングだけにとどまりません。
+
+<br>
 
 ### VTuber Community
 
@@ -144,6 +159,8 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 - 異文化理解
 
 を学ぶ機会になりました。
+
+<br>
 
 ### Business & Organization
 
@@ -173,9 +190,14 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 技術だけではビジネスは成立せず、
 ビジネスだけでも価値は生まれないことを学びました。
 
+<br>
+<br>
+
 ## What I'm Learning
 
 現在のテーマは次の3つです。
+
+<br>
 
 ### AI
 
@@ -183,15 +205,22 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 このブログの運営もその実験の一部です。
 
+<br>
+
 ### Project Management
 
 PMP取得に向けて学習中。
 
 技術だけでなく、プロジェクト全体を推進する力を身につけたいと考えています。
 
+<br>
+
 ### Cloud
 
 クラウド技術やモダンアーキテクチャについて継続的に学習しています。
+
+<br>
+<br>
 
 ## Personal Interests
 
@@ -211,6 +240,9 @@ PMP取得に向けて学習中。
 将来的には、
 技術・デザイン・ビジネスを横断しながら、
 自分自身のプロダクトやブランドを育てていきたいと考えています。
+
+<br>
+<br>
 
 ## Why This Blog Exists
 
