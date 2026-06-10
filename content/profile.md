@@ -54,7 +54,8 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 <br>
 
-### 2020 - Oriental Utility Resource株式会社
+### 2020 | Oriental Utility Resource株式会社
+
 
 日本でのエンジニアキャリアはここから始まりました。
 
@@ -63,25 +64,26 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 この時期は「プログラムを書く」ことだけでなく、
 
-- チーム開発(チームリーダー)
-- 品質保証
-- ドキュメント管理
+    チーム開発(チームリーダー) 
+    品質保証
+    ドキュメント管理
 
 など、エンジニアとしての基礎を学んだ期間でした。
 
 <br>
 
-### 2022 - 株式会社 メイテックフィルダーズ
+### 2022 | 株式会社 メイテックフィルダーズ
+
 
 私のキャリアの中で最も技術的な挑戦が多かった時期です。
 
 大手コンビニチェーン向け次世代POSシステムの提案プロジェクトに参加し、
 
-- 要求仕様分析
-- 既存システムのリバースエンジニアリング
-- Flutterによるモバイルアプリ試作
-- Google Cloud Platformの技術調査
-- PoC（概念実証）開発
+    要求仕様分析
+    既存システムのリバースエンジニアリング
+    Flutterによるモバイルアプリ試作
+    Google Cloud Platformの技術調査
+    PoC（概念実証）開発
 
 などを担当しました。
 
@@ -92,8 +94,8 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 また、新入社員向けに
 
-- C#
-- データベース基礎
+    C#
+    データベース基礎
 
 の社内研修講師も担当しました。
 
@@ -101,28 +103,35 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 <br>
 
-### 2023 - Present | 株式会社 オレンジアーチ
+### 2023 | 株式会社 オレンジアーチ
+
 
 現在は業務システム開発を中心に活動しています。
 
 店舗管理システム、情報連携システム、生協向けOCRシステムなどの開発・保守に携わり、
 
-- 要件確認
-- 基本設計
-- 詳細設計
-- 実装
-- テスト
-- 本番対応
-- 導入支援
+    要件確認（顧客折衝）
+       ↓   
+    基本設計
+       ↓   
+    詳細設計
+       ↓   
+    実装
+       ↓   
+    テスト
+       ↓   
+    本番対応(現地出張)
+       ↓   
+    導入支援(現地出張)
 
 まで幅広い工程を経験しています。
 
 特に近年は、
 
-- OCR
-- データ連携
-- PostgreSQL
-- Oracle
+    OCR
+    データ連携
+    PostgreSQL
+    Oracle
 
 を活用した業務システム開発に多く携わっています。
 
@@ -145,18 +154,18 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 担当した内容：
 
-- 日中翻訳
-- ライブ配信サポート
-- 同時通訳
-- 動画切り抜き編集
-- コミュニティ運営
-- 翻訳チーム調整
+    日中翻訳
+    ライブ配信サポート
+    同時通訳
+    動画切り抜き編集
+    コミュニティ運営
+    翻訳チーム調整
 
 この経験は、技術よりもむしろ
 
-- コミュニケーション
-- リーダーシップ
-- 異文化理解
+    コミュニケーション
+    リーダーシップ
+    異文化理解
 
 を学ぶ機会になりました。
 
@@ -170,19 +179,19 @@ Building enterprise systems, exploring AI, documenting ideas, and continuously l
 
 過去には中華物産店の出店企画に携わり、
 
-- 市場調査
-- 商圏分析
-- 不動産調査
-- 商品選定
-- 店舗コンセプト企画
+    市場調査
+    商圏分析
+    不動産調査
+    商品選定
+    店舗コンセプト企画
 
 を経験しました。
 
 また、スタートアップ企業では社長補佐として、
 
-- 組織設計
-- 部門構成見直し
-- 業務改善
+    組織設計
+    部門構成見直し
+    業務改善
 
 などにも関わりました。
 
@@ -226,14 +235,14 @@ PMP取得に向けて学習中。
 
 仕事以外では、
 
-- 家具
-- インテリア
-- アート
-- ブランド企画
-- 写真
-- 猫（Kira）
-- 読書
-- ブログ運営
+    家具
+    インテリア
+    アート
+    ブランド企画
+    写真
+    猫（Kira）
+    読書
+    ブログ運営
 
 などを楽しんでいます。
 
