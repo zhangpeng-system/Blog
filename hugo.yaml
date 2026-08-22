@@ -59,7 +59,7 @@ params:
   # 显示文章字数
   ShowWordCount: true
   # 显示RSS按钮
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   # 显示文章目录
   UseHugoToc: true
   # 是否显示文章换行
@@ -68,7 +68,6 @@ params:
   Showtoc: true
   # 是否显示文章目录
   Tocopen: true
-  
   disableSpecial1stPost: false
   # 是否显示滚动到顶部按钮
   disableScrollToTop: true
